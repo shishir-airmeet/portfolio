@@ -1,1 +1,6 @@
-# Simple Porfolio Website for Using Jekyll Static Site Generator and Flexible-Jekyll Theme.
+# Simple Porfolio Website 
+
+[**Link.**](https://shishirskar.com)
+
+Credits: Jekyll Static Site Generator
+Theme: Flexible-Jekyll Theme
